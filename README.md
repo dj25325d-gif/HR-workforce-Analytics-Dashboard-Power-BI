@@ -1,17 +1,17 @@
 # 🚀 HR Workforce Analytics Dashboard
 
-```{=html}
+
 <p align="center">
-```
+
 ![Power
 BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue) ![Power
 Query](https://img.shields.io/badge/Power%20Query-ETL-success)
 ![Status](https://img.shields.io/badge/Portfolio-Ready-brightgreen)
 
-```{=html}
+
 </p>
-```
+
 > ### Workforce Overview • Attrition Analysis • Compensation Analysis
 
 ------------------------------------------------------------------------
@@ -56,15 +56,15 @@ HR leaders need one place to monitor:
 
 ## 🏠 Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ## 📉 Attrition Analysis
 
-![Attrition Analysis](Attrition_Analysis.png)
+![Attrition Analysis](Screenshots/Attrition_Analysis.png)
 
 ## 💰 Compensation Analysis
 
-![Compensation Analysis](Compensation_Analysis.png)
+![Compensation Analysis](Screenshots/Compensation_Analysis.png)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ Business Insights
 
 # Data Model
 
-![Model](Model_View.png)
+![Model](Screenshots/Model_View.png)
 
 ### Fact Tables
 
